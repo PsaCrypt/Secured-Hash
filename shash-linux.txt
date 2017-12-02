@@ -1,0 +1,14 @@
+
+Secured-Hash - Linux:
+
+Debido a los problemas que he tenido durante la celebración del concurso, no he
+podido hacer funcionar la plataforma con Linux Mint 17.3.  He podido instalar el
+compilador Harbour 3.0 en otra distribución Linux-Live pero al compilar el
+proyecto no me permite eliminar la dependencia de la librería libharbour.s0.3.0.0
+
+Para ejecutar Secured-Hash en Linux necesita instalar Harbour 3.0 antes de
+hacerlo.  He dejado en la página del proyecto de GitHub las versiones
+compiladas el pasado 15 de Noviembre, cuya versión de Linux no tiene
+dependencia de esa librería.
+
+2 de Diciembre de 2017.
